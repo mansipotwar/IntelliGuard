@@ -1,0 +1,25 @@
+# Ignore Python virtual environments
+venv/
+backend/venv/
+.env
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore ML model files and datasets
+*.pkl
+*.csv
+*.xlsx
+
+# Ignore Node.js dependencies and build files
+node_modules/
+build/
+dist/
+.cache/
+
+# Ignore OS/system files
+.DS_Store
+Thumbs.db

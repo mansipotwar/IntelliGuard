@@ -1,0 +1,192 @@
+/* Dashboard.css */
+
+.dashboard-container {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  background: #e6f1ff;
+  font-family: Arial, sans-serif;
+}
+
+.dashboard-map {
+  position: absolute !important;
+  left: 13vw;
+  top: 0;
+  width: 74vw !important;
+  height: 100vh !important;
+  z-index: 1;
+}
+
+.dashboard-sidebar-left {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 13vw;
+  height: 100vh;
+  background: rgba(255, 255, 255, 0.42);
+  border-radius: 0 38px 38px 0;
+  box-shadow: 0 6px 32px rgba(64, 128, 255, 0.13);
+  backdrop-filter: blur(16px);
+  border-right: 1.5px solid rgba(199, 215, 255, 0.22);
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 32px 18px 32px 24px;
+  gap: 22px;
+  z-index: 20;
+}
+
+.dashboard-sidebar-left .title {
+  font-weight: bold;
+  font-size: 1.22rem;
+  color: #22294c;
+  margin-bottom: 16px;
+}
+
+.dashboard-search-bar {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.dashboard-search-bar input {
+  width: 70%;
+  border-radius: 16px;
+  padding: 10px 16px;
+  border: 1.5px solid #b7d3fa;
+  background: rgba(250, 250, 255, 0.52);
+  color: #143889;
+  font-weight: 500;
+  outline: none;
+  font-size: 1rem;
+  transition: border-color 0.3s ease;
+}
+
+.dashboard-search-bar input:focus {
+  border-color: #117aa8;
+}
+
+.dashboard-search-bar button {
+  border-radius: 12px;
+  background: #f3f3fa;
+  color: #117aa8;
+  border: none;
+  font-weight: 600;
+  padding: 10px 18px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+  font-size: 1rem;
+}
+
+.dashboard-search-bar button:hover {
+  background: #d7e3f5;
+}
+
+.user-location-error {
+  color: #d34f4a;
+  font-weight: bold;
+  margin: 12px 0;
+  font-size: 0.9rem;
+}
+
+.location-info {
+  font-weight: 500;
+  color: #22294c;
+  font-size: 1.07rem;
+}
+
+.location-info span.coordinates {
+  color: #32488c;
+  font-weight: 600;
+}
+
+.location-info span.marker-label {
+  color: #596c9e;
+  font-size: 0.97em;
+}
+
+.flood-info {
+  width: 100%;
+  margin-top: 14px;
+}
+
+.flood-info h4 {
+  color: #32488c;
+  margin: 10px 0 10px;
+}
+
+.flood-info div {
+  margin: 3px 0;
+  font-size: 0.95rem;
+}
+
+.risk-high {
+  color: #d34f4a;
+  font-weight: 600;
+}
+
+.risk-low {
+  color: #45d07e;
+  font-weight: 600;
+}
+
+.rainfall {
+  color: #ffc868;
+}
+
+.flood-description {
+  font-size: 0.83em;
+  margin-top: 7px;
+  color: #696d93;
+}
+
+.dashboard-sidebar-right {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 13vw;
+  height: 100vh;
+  background: rgba(255, 255, 255, 0.74);
+  border-radius: 38px 0 0 38px;
+  box-shadow: 0 8px 32px rgba(64, 128, 255, 0.17);
+  backdrop-filter: blur(13px);
+  border-left: 1.5px solid rgba(185, 185, 205, 0.19);
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 44px 24px;
+  gap: 26px;
+  z-index: 30;
+}
+
+.dashboard-sidebar-right h2 {
+  font-size: 1.13rem;
+  color: #22294c;
+  margin-bottom: 30px;
+}
+
+.dashboard-sidebar-right button {
+  width: 100%;
+  padding: 16px;
+  background: #eaf2fa;
+  color: #117aa8;
+  border: none;
+  border-radius: 16px;
+  font-weight: bold;
+  box-shadow: 0 1px 8px #b7d3fa;
+  cursor: pointer;
+  transition: background 0.3s ease;
+  font-size: 1rem;
+  margin-bottom: 16px;
+}
+
+.dashboard-sidebar-right button:last-child {
+  margin-bottom: 0;
+}
+
+.dashboard-sidebar-right button:hover {
+  background: #c7daf9;
+}
