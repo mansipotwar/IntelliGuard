@@ -1,6 +1,6 @@
-DisasterGuard‑XI
+IntelliGuard
 
-DisasterGuard‑XI is an intelligent platform designed to provide early predictions and safety suggestions during natural disasters such as floods, earthquakes, and cyclones.  
+IntelliGuard is an intelligent platform designed to provide early predictions and safety suggestions during natural disasters such as floods, earthquakes, and cyclones.  
 It integrates machine learning techniques with real‑time environmental data and predictive analytics to support quick, data‑driven decisions for both communities and disaster management authorities.
 
 Key Features
