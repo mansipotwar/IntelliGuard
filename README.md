@@ -102,20 +102,21 @@ Displays disaster risk predictions for a selected location based on the analyzed
 ![Hurricane](./frontend/public/2.png)
 Provides an overview of analyzed disaster data, helping users understand disaster patterns, risk factors, and location-based insights.
 
-### 📊 Dashboard
-![Dashboard]()
-
+### 🌊 Flood Analysis Dashboard
 ![Dashboard](./frontend/public/D.2.png)
+Visualizes flood-related data through charts and graphs, providing insights into flood patterns, risk levels, affected locations, and other analyzed factors.
 
+### 🌍 Earthquake Analysis Dashboard
 ![Dashboard](./frontend/public/D.3.png)
+Visualizes earthquake-related data through charts and graphs, providing insights into earthquake patterns, magnitude, frequency, and affected locations.
 
+### 🌀 Hurricane Analysis Dashboard
 ![Dashboard](./frontend/public/D.4.png)
+Visualizes hurricane-related data through charts and graphs, providing insights into storm patterns, intensity, frequency, and affected locations.
 
-### 🌎 Earthquake Analysis
-![Earthquake Analysis](./frontend/public/low-res-earth.png)
-
-### 📊 Analysis
+### 🛡️ Safety Recommendations Page
 ![Analysis](./frontend/public/r4.png)
+Provides safety recommendations and precautionary measures based on the identified disaster risks to help users take appropriate actions during emergencies.
 
 ## 🚀 Future Scope
 
