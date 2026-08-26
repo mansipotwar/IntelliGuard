@@ -85,7 +85,6 @@ Environmental / Disaster Data
 ```
 
 ## 📊 Analytics & Visualization
-
 ### 📍 Location-Based Risk Analysis
 
 <p align="center">
@@ -95,32 +94,61 @@ Environmental / Disaster Data
 Visualizes the selected location on an interactive map, helping users analyze disaster risks based on geographical and environmental data.
 
 ### ⚠️ Disaster Prediction Page
-![Flood](./frontend/public/result.png)
+
+<p align="center">
+  <img src="./frontend/public/result.png" width="500">
+</p>
+
 Displays disaster risk predictions for a selected location based on the analyzed environmental and disaster-related data.
 
 ### 🌊 Flood Prediction Page
-![Earthquake](./frontend/public/Screenshot%202025-08-11%20225422.png)
+
+<p align="center">
+  <img src="./frontend/public/Screenshot%202025-08-11%20225422.png" width="500">
+</p>
+
 Displays the predicted flood risk for a selected location based on relevant environmental, weather, and historical disaster data.
 
 ### 📊 Disaster Analysis Page
-![Hurricane](./frontend/public/2.png)
+
+<p align="center">
+  <img src="./frontend/public/2.png" width="500">
+</p>
+
 Provides an overview of analyzed disaster data, helping users understand disaster patterns, risk factors, and location-based insights.
 
 ### 🌊 Flood Analysis Dashboard
-![Dashboard](./frontend/public/D.2.png)
+
+<p align="center">
+  <img src="./frontend/public/D.2.png" width="500">
+</p>
+
 Visualizes flood-related data through charts and graphs, providing insights into flood patterns, risk levels, affected locations, and other analyzed factors.
 
 ### 🌍 Earthquake Analysis Dashboard
-![Dashboard](./frontend/public/D.3.png)
+
+<p align="center">
+  <img src="./frontend/public/D.3.png" width="500">
+</p>
+
 Visualizes earthquake-related data through charts and graphs, providing insights into earthquake patterns, magnitude, frequency, and affected locations.
 
 ### 🌀 Hurricane Analysis Dashboard
-![Dashboard](./frontend/public/D.4.png)
+
+<p align="center">
+  <img src="./frontend/public/D.4.png" width="500">
+</p>
+
 Visualizes hurricane-related data through charts and graphs, providing insights into storm patterns, intensity, frequency, and affected locations.
 
 ### 🛡️ Safety Recommendations Page
-![Analysis](./frontend/public/r4.png)
+
+<p align="center">
+  <img src="./frontend/public/r4.png" width="500">
+</p>
+
 Provides safety recommendations and precautionary measures based on the identified disaster risks to help users take appropriate actions during emergencies.
+
 
 ## 🚀 Future Scope
 
