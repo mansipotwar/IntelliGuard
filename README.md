@@ -33,24 +33,22 @@ IntelliGuard/
 
 This structure enables communication between the **frontend, backend, data-processing pipelines, and machine learning models**, making the system easier to develop, test, maintain, and extend.
 
-## 🧠 Machine Learning
-
+## 🧠 Disaster Prediction Modules
 IntelliGuard uses machine learning techniques to analyze disaster-related data and generate risk predictions.
 
-### Flood Prediction
+### 🌊 Flood Prediction
 
 * Random Forest
 * XGBoost
 * Ensemble-based prediction
 
-### Earthquake Risk
+### 🌎 Earthquake Risk Analysis
 
 * Seismic activity analysis
 * Regional earthquake data
 * Risk classification
 
-### Cyclone Analysis
-
+### 🌪️ Cyclone Prediction/Analysis
 * Wind speed
 * Atmospheric pressure
 * Meteorological parameters
@@ -85,6 +83,8 @@ Environmental / Disaster Data
             ↓
    Safety Recommendations
 ```
+
+## 📊 Analytics & Visualization
 
 ## 📊 Platform Modules
 
