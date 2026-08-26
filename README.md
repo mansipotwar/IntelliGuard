@@ -86,8 +86,8 @@ Environmental / Disaster Data
 
 ## 📊 Analytics & Visualization
 
-### 🏠 Home Page
-![Home Page](./frontend/public/2.png)
+### 📍 Location-Based Risk Analysis
+![Home Page](./frontend/public/D.1.png)
 
 ### 🌊 Flood
 ![Flood](./frontend/public/flood.png.jpg)
@@ -99,7 +99,7 @@ Environmental / Disaster Data
 ![Hurricane](./frontend/public/hurricane.png.jpg)
 
 ### 📊 Dashboard
-![Dashboard](./frontend/public/D.1.png)
+![Dashboard]()
 
 ![Dashboard](./frontend/public/D.2.png)
 
