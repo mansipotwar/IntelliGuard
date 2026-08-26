@@ -95,10 +95,12 @@ Visualizes the selected location on an interactive map, helping users analyze di
 Displays disaster risk predictions for a selected location based on the analyzed environmental and disaster-related data.
 
 ### 🌎 Earthquake
-![Earthquake](./frontend/public/2.jpg)
+![Earthquake](./frontend/public/2.png)
+
 
 ### 📊 Disaster Analysis Page
-![Hurricane](./frontend/public/hurricane.png.jpg)
+![Hurricane](./frontend/public/2.png)
+Provides an overview of analyzed disaster data, helping users understand disaster patterns, risk factors, and location-based insights.
 
 ### 📊 Dashboard
 ![Dashboard]()
