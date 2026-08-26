@@ -94,9 +94,9 @@ Visualizes the selected location on an interactive map, helping users analyze di
 ![Flood](./frontend/public/result.png)
 Displays disaster risk predictions for a selected location based on the analyzed environmental and disaster-related data.
 
-### 🌎 Earthquake
-![Earthquake](./frontend/public/2.png)
-
+### 🌊 Flood Prediction Page
+![Earthquake](./frontend/public/Screenshot%202025-08-11%20225422.png)
+Displays the predicted flood risk for a selected location based on relevant environmental, weather, and historical disaster data.
 
 ### 📊 Disaster Analysis Page
 ![Hurricane](./frontend/public/2.png)
