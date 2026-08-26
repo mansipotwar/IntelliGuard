@@ -85,30 +85,21 @@ Environmental / Disaster Data
 ```
 
 ## 📊 Analytics & Visualization
+## 🖼️ Project Screenshots
 
-## 📊 Platform Modules
-
-IntelliGuard provides dedicated modules for different disaster scenarios:
-
-### 🌊 Flood Prediction
-
-Analyzes relevant environmental and historical parameters to estimate flood risk.
-
-### 🌪️ Cyclone Analysis
-
-Processes meteorological parameters to analyze cyclone-related conditions and potential risk.
-
-### 🌎 Earthquake Analysis
-
-Evaluates seismic activity and earthquake-related regional data to provide risk insights.
-
-### 📈 Analytics
-
-Provides interactive charts and visualizations to help users understand prediction results, trends, and underlying data.
-
-### 🛟 Safety Recommendations
-
-Generates disaster-specific safety guidance based on the identified risk scenario.
+- [2.png](https://github.com/mansipotwar/IntelliGuard/blob/main/frontend/public/2.png)
+- [D.1.png](https://github.com/mansipotwar/IntelliGuard/blob/main/frontend/public/D.1.png)
+- [D.2.png](https://github.com/mansipotwar/IntelliGuard/blob/main/frontend/public/D.2.png)
+- [D.3.png](https://github.com/mansipotwar/IntelliGuard/blob/main/frontend/public/D.3.png)
+- [D.4.png](https://github.com/mansipotwar/IntelliGuard/blob/main/frontend/public/D.4.png)
+- [Screenshot 2025-08-11 22542...](https://github.com/mansipotwar/IntelliGuard/blob/main/frontend/public/Screenshot%202025-08-11%2022542...)
+- [earthquake.png.jpg](https://github.com/mansipotwar/IntelliGuard/blob/main/frontend/public/earthquake.png.jpg)
+- [flood.png.jpg](https://github.com/mansipotwar/IntelliGuard/blob/main/frontend/public/flood.png.jpg)
+- [hurricane.png.jpg](https://github.com/mansipotwar/IntelliGuard/blob/main/frontend/public/hurricane.png.jpg)
+- [low-res-earth.png](https://github.com/mansipotwar/IntelliGuard/blob/main/frontend/public/low-res-earth.png)
+- [r4.png](https://github.com/mansipotwar/IntelliGuard/blob/main/frontend/public/r4.png)
+- [result.png](https://github.com/mansipotwar/IntelliGuard/blob/main/frontend/public/result.png)
+- [vite.svg](https://github.com/mansipotwar/IntelliGuard/blob/main/frontend/public/vite.svg)
 
 ## 🚀 Future Scope
 
