@@ -89,8 +89,9 @@ Environmental / Disaster Data
 ### 📍 Location-Based Risk Analysis
 ![Home Page](./frontend/public/D.1.png)
 
-### 🌊 Flood
-![Flood](./frontend/public/flood.png.jpg)
+### ⚠️ Disaster Prediction Page
+![Flood](./frontend/public/result.png)
+Displays disaster risk predictions for a selected location based on the analyzed environmental and disaster-related data.
 
 ### 🌎 Earthquake
 ![Earthquake](./frontend/public/earthquake.png.jpg)
@@ -108,7 +109,7 @@ Environmental / Disaster Data
 ![Dashboard](./frontend/public/D.4.png)
 
 ### 📈 Results
-![Results](./frontend/public/result.png)
+![Results](./frontend/public/)
 
 ### 🌎 Earthquake Analysis
 ![Earthquake Analysis](./frontend/public/low-res-earth.png)
