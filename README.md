@@ -87,7 +87,11 @@ Environmental / Disaster Data
 ## 📊 Analytics & Visualization
 
 ### 📍 Location-Based Risk Analysis
-![Home Page](./frontend/public/D.1.png)
+
+<p align="center">
+  <img src="./frontend/public/D.1.png" width="500">
+</p>
+
 Visualizes the selected location on an interactive map, helping users analyze disaster risks based on geographical and environmental data.
 
 ### ⚠️ Disaster Prediction Page
